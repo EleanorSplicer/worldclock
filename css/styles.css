@@ -5,7 +5,10 @@ body {
     rgb(247, 202, 201) 44.9%,
     rgb(145, 168, 208) 96.1%
   );
-  background-size: cover;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 h1 {
   text-align: center;
